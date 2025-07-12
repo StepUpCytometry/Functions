@@ -22,6 +22,6 @@ Next, change yaml header at top of document to include a filters: webr
 
 And then change the extension on the code block. 
 
-```{web-r}
+```{webr-r}
 A <- 2 + 2
 ```
